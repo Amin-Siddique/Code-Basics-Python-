@@ -3,7 +3,7 @@
 
 void LetterCapitalize(char str[]) { 
   
-  // code goes here  
+  // code goes here- *Please feel free to conribute*
   int i,j,temp;
    for(i=0;i<strlen(str);i++){
 	  if(str[i]>=97 && str[i]<=122)
