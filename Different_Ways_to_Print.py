@@ -7,7 +7,7 @@ print("Happy Birthday " + name)
 #method2:
 print("Happy Birthday {}".format(name))
 
-#method3: Best method!
+#method3: Best method
 print(f"Happy Birthday {name}")
 
 
